@@ -1,6 +1,7 @@
 # ownCloud Desktop Client
 
 [![Build Status](https://drone.owncloud.com/api/badges/owncloud/client/status.svg)](https://drone.owncloud.com/owncloud/client) [![Build status](https://ci.appveyor.com/api/projects/status/a1x3dslys7de6e21/branch/master?svg=true)](https://ci.appveyor.com/project/ownclouders/client/branch/master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fclient.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fclient?ref=badge_shield)
 
 
 ## Introduction
@@ -83,3 +84,6 @@ This README will be updated as more information is available.
     for more details.
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flincoilntgl%2Fclient.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flincoilntgl%2Fclient?ref=badge_large)
